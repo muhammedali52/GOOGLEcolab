@@ -1,2 +1,2 @@
-# blogSitem
-Html,Css ve JavaScript kulanarak hazırlanmıştır.
+#python çalışmam
+Pandas ,NumPy, Matplotlib, Seaborn kulanarak hazırlanmıştır.
